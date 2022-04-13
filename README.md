@@ -95,9 +95,9 @@ The SlowMist team manually checks the code line by line, looking for common codi
 
 ## Blockchain Application Audit
 ### Smart Contract Security Audit
-1. Ethereum/Solidity Smart Contract Security Audit  
-2. [SlowMist: EOS Smart Contract Security Best Practices](https://github.com/slowmist/eos-smart-contract-security-best-practices)
-3. [SlowMist: Solana Smart Contract Security Best Practices](https://github.com/slowmist/solana-smart-contract-security-best-practices)
+1. [Ethereum(Solidity) Smart Contract Security Audit](https://github.com/slowmist/Knowledge-Base/blob/master/blockchain_security_study_notes/README.md)
+2. [EOS(C++) Smart Contract Security Best Practices](https://github.com/slowmist/eos-smart-contract-security-best-practices)
+3. [Solana(Rust) Smart Contract Security Best Practices](https://github.com/slowmist/solana-smart-contract-security-best-practices)
 
 ### Application Chain Security Audit
 1. Cosmos-SDK Framework Based Application Audit  
@@ -107,4 +107,4 @@ The SlowMist team manually checks the code line by line, looking for common codi
 1. Zero-Knowledge Circuit Security Audit  
 2. Interchain Bridge Application Security Audit  
 3. Browser Plugin Wallet Security Audit  
-4. Exchange Security Audit  
+4. Exchange Security Audit 
