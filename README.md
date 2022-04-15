@@ -49,11 +49,13 @@ The SlowMist team examines the most concerned vulnerabilities of exchanges, they
   [Detail](./Blockchain-Common-Vulnerability-List.md#private-key-prediction)
 
 - Keystore crack
-
+  [Detail](./Blockchain-Common-Vulnerability-List.md#cryptographic-attacks)
+  
 - Hash strength
   [Detail](./Blockchain-Common-Vulnerability-List.md#collision-attack)
 
 - Unknown encryption library
+  [Detail](./Blockchain-Common-Vulnerability-List.md#cryptographic-attacks)
 
 - Transaction malleability attack
   [Detail](./Blockchain-Common-Vulnerability-List.md#transaction-malleability-attack)
