@@ -41,7 +41,7 @@ According to the CVSS method, SlowMist team develops the blockchain vulnerabilit
 
 ## Cryptocurrency Exchange Listing Audit
 
-The SlowMist team adopts the strategy of "Black-box + Gray-box" to conduct a complete security test on the project in the way closest to the real attack.
+The SlowMist team adopts the strategy of "**Black-box + Gray-box**" to conduct a complete security test on the project in the way closest to the real attack.
 
 The SlowMist team examines the most concerned vulnerabilities of exchanges, they are as follows:
 
@@ -99,7 +99,7 @@ The SlowMist team manually checks the code line by line, looking for common codi
 ### Smart Contract Security Audit
 1. [Ethereum(Solidity) Smart Contract Security Audit](https://www.slowmist.com/en/service-smart-contract-security-audit.html)
 2. [EOS(C++) Smart Contract Security Best Practices](https://github.com/slowmist/eos-smart-contract-security-best-practices)
-3. [Solana(Rust) Smart Contract Security Best Practices](https://github.com/slowmist/solana-smart-contract-security-best-practices)
+3. Solana(Rust) Smart Contract Security Best Practices
 
 ### Application Chain Security Audit
 1. Cosmos-SDK Framework Based Application Audit  
