@@ -39,7 +39,13 @@ According to the CVSS method, SlowMist team develops the blockchain vulnerabilit
 | Weakness | There are safety risks theoretically, but it is extremely difficult to reproduce in engineering. |
 | Suggestion | There are better practices for coding or architecture. |
 
-## Cryptocurrency Exchange Listing Audit
+## Blockchain Mainnet Security Audit
+
+The SlowMist team adopts the strategy of "**Black-box + Gray-box**" to conduct a complete security test on the project in the way closest to the real attack.
+
+The SlowMist team check all vulnerabilities listing  in [SlowMist: Blockchain Common Vulnerability List](./Blockchain-Common-Vulnerability-List.md) (30+ items)
+
+## Cryptocurrency Exchange Listing Security Audit
 
 The SlowMist team adopts the strategy of "**Black-box + Gray-box**" to conduct a complete security test on the project in the way closest to the real attack.
 
@@ -66,12 +72,6 @@ The SlowMist team examines the most concerned vulnerabilities of exchanges, they
 - RPC theft
   [Detail](./Blockchain-Common-Vulnerability-List.md#the-ethereum-black-valentines-day-vulnerability)
 
-## Blockchain Mainnet Audit
-
-The SlowMist team adopts the strategy of "**Black-box + Gray-box**" to conduct a complete security test on the project in the way closest to the real attack.
-
-The SlowMist team check all vulnerabilities listing  in [SlowMist: Blockchain Common Vulnerability List](./Blockchain-Common-Vulnerability-List.md) (30+ items)
-
 ## Code-based Testing Audit
 
 The SlowMist team adopts the strategy of "**White-box**" to conduct a complete security test on the project.
@@ -91,16 +91,15 @@ The SlowMist team manually checks the code line by line, looking for common codi
 - Boundary check
 - Unit test coverage
 
+## Application Chain Security Audit
+1. Cosmos-SDK Framework Based Application Audit  
+2. Substrate Framework Based Application Audit  
 
 ## Blockchain Application Audit
 ### Smart Contract Security Audit
 1. [Ethereum(Solidity) Smart Contract Security Audit](https://www.slowmist.com/en/service-smart-contract-security-audit.html)
 2. [EOS(C++) Smart Contract Security Best Practices](https://github.com/slowmist/eos-smart-contract-security-best-practices)
 3. Solana(Rust) Smart Contract Security Best Practices
-
-### Application Chain Security Audit
-1. Cosmos-SDK Framework Based Application Audit  
-2. Substrate Framework Based Application Audit  
 
 ### Other Application
 1. Zero-Knowledge Circuit Security Audit  
