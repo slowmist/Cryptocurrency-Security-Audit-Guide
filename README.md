@@ -92,8 +92,22 @@ The SlowMist team manually checks the code line by line, looking for common codi
 - Unit test coverage
 
 ## Application Chain Security Audit
-1. Cosmos-SDK Framework Based Application Audit  
-2. Substrate Framework Based Application Audit  
+
+The SlowMist team adopts the strategy of "**White-box**" to conduct a complete security test on the project, looking for common coding pitfalls as follows:  
+
+- Replay Vulnerability
+- Reordering Vulnerability
+- Race Conditions Vulnerability
+- Authority Control Vulnerability
+- Block data Dependence Vulnerability
+- Explicit Visibility of Functions
+- Arithmetic Accuracy Deviation Vulnerability
+- Malicious Event Log
+
+Currently we support:  
+1. Cosmos-SDK Framework Based Blockchain Audit  
+2. Substrate Framework Based Blockchain Audit  
+
 
 ## Blockchain Application Audit
 ### Smart Contract Security Audit
