@@ -1,4 +1,4 @@
-# Blockchain Based Cryptocurrency Security Audit Guide
+# Blockchain-Based Cryptocurrency Security Audit Guide
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/slowmist_team.svg?style=social&label=Follow%20%40SlowMist_Team)](https://twitter.com/slowmist_team)
 
@@ -8,7 +8,7 @@ SlowMist uses multiple models to identify cryptocurrency threats.
 
 **The [ABC](https://arxiv.org/abs/1903.03422)** (Asset-Based Cryptocurrency-focused) threat modeling framework:
 
-ABC's key innovation is the use of collusion matrices. A collusion matrix forces a threat model to cover a large space of threat cases while simultaneously manages this process to prevent it from being overly complex. Moreover, ABC derives a system-specific threat categories that account for the financial aspects and the new asset types that cryptocurrencies introduce. 
+ABC's key innovation is the use of collusion matrices. A collusion matrix forces a threat model to cover a large space of threat cases while simultaneously managing this process to prevent it from being overly complex. Moreover, ABC derives system-specific threat categories that account for the financial aspects and the new asset types that cryptocurrencies introduce. 
 
 **STRIDE** threat model:
 
@@ -77,7 +77,7 @@ The SlowMist team examines the most concerned vulnerabilities of exchanges, they
 The SlowMist team adopts the strategy of "**White-box**" to conduct a complete security test on the project.
 
 ### Static Source Code Analysis (SAST)
-The SlowMist team checks code quality using open source or commercial code scanners, we support all popular language, such as **C/C++/Golang/Rust/Java/Nodejs/C#**
+The SlowMist team checks code quality using open source or commercial code scanners, we support all popular languages, such as **C/C++/Golang/Rust/Java/Nodejs/C#**
 
 ### Manual Code Review
 
