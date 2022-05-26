@@ -113,7 +113,7 @@ Currently we support:
 ### Smart Contract Security Audit
 1. [Ethereum(Solidity) Smart Contract Security Audit](https://www.slowmist.com/en/service-smart-contract-security-audit.html)
 2. [EOS(C++) Smart Contract Security Best Practices](https://github.com/slowmist/eos-smart-contract-security-best-practices)
-3. Solana(Rust) Smart Contract Security Best Practices
+3. [Solana(Rust) Smart Contract Security Best Practices](https://github.com/slowmist/solana-smart-contract-security-best-practices)
 
 ### Other Application
 1. Zero-Knowledge Circuit Security Audit  
