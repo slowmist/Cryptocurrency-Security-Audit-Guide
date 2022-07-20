@@ -103,6 +103,7 @@ The SlowMist team adopts the strategy of "**White-box**" to conduct a complete s
 - Explicit Visibility of Functions
 - Arithmetic Accuracy Deviation Vulnerability
 - Malicious Event Log
+- Asynchronous Call Security
 
 Currently we support:  
 1. Cosmos-SDK Framework Based Blockchain Audit  
