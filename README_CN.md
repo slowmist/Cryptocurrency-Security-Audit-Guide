@@ -1,6 +1,8 @@
 # 基于区块链的加密货币安全审计指南
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/slowmist_team.svg?style=social&label=Follow%20%40SlowMist_Team)](https://twitter.com/slowmist_team)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/slowmist_team.svg?style=social&label=Follow%20%40SlowMist_Team)](https://twitter.com/slowmist_team) 
+
+
 [English Version](./README.md)
 
 ## 1. 加密货币威胁建模
@@ -118,7 +120,6 @@ SlowMist 团队逐行检查代码，寻找常见的编码陷阱，如：
 - 错误处理
 - 边界检查
 - 单元测试覆盖率
-- 逻辑安全
 
 ## 7. 应用链安全审计
 
