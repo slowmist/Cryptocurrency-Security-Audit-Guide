@@ -54,9 +54,9 @@ The SlowMist team analyzes and studies publicly known blockchain security vulner
 
 The SlowMist team employs a comprehensive approach utilizing black-box, gray-box, and white-box testing methods. Depending on the specific audit requirements, they offer various services including a mainnet security audit and layer 2 security audit that primarily use black-box and gray-box methods, and a source code security audit that focuses on white-box testing. Additionally, they provide customized application chain security audit solutions tailored for specific development frameworks.
 
-### 5.1 Mainnet & layer2 project security audits
+### 5.1 Layer1 & layer2 mainnet security audits
 
-In mainnet & layer2 project security audits, the SlowMist team employs a "**black-box + gray-box**" strategy to conduct rapid security testing in a manner that closely simulates real-world attacks.
+In layer1 & layer2 project mainnet security audits, the SlowMist team employs a "**black-box + gray-box**" strategy to conduct rapid security testing in a manner that closely simulates real-world attacks.
 
 The vulnerabilities checked by the SlowMist team include:
 
@@ -102,7 +102,7 @@ The vulnerabilities checked by the SlowMist team include:
 - Miner grinding attack
 - PoS/BFT double-signing penalty
 
-### 5.2 Code-based Testing Audit
+### 5.2 Source Code Security Audit
 
 Source code security auditing refers to the comprehensive security testing of a project's source code by the SlowMist team using a "**white-box**" strategy. White-box auditing typically involves a combination of automated static code analysis and manual review.
 
