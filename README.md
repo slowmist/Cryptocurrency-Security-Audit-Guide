@@ -185,8 +185,9 @@ Currently we support:
 2. [EOS(C++) Smart Contract Security Best Practices](https://github.com/slowmist/eos-smart-contract-security-best-practices)
 3. [Solana(Rust) Smart Contract Security Best Practices](https://github.com/slowmist/solana-smart-contract-security-best-practices)
 4. NEAR smart contract security audit
-5. [Move smart contract security audit](https://github.com/slowmist/Sui-MOVE-Smart-Contract-Auditing-Primer)
-6. [TON smart contract security audit](https://github.com/slowmist/Toncoin-Smart-Contract-Security-Best-Practices)
+5. [Sui Move smart contract security audit](https://github.com/slowmist/Sui-MOVE-Smart-Contract-Auditing-Primer)
+6. [Aptos Move smart contract security audit](https://github.com/slowmist/APTOS-MOVE-Smart-Contract-Auditing-Primer)
+7. [TON smart contract security audit](https://github.com/slowmist/Toncoin-Smart-Contract-Security-Best-Practices)
 
 ### 6.2 Other Application
 
