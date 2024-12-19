@@ -223,8 +223,8 @@ SlowMist 团队采用“**白盒**”策略，对项目进行全面的安全测�
 2. [EOS(C++) 智能合约安全最佳实践](https://github.com/slowmist/eos-smart-contract-security-best-practices)
 3. [Solana(Rust) 智能合约安全最佳实践](https://github.com/slowmist/solana-smart-contract-security-best-practices)
 4. Near 智能合约安全审计
-5. Move 智能合约安全审计
-6. Ton 智能合约安全审计
+5. [Move 智能合约安全审计](https://github.com/slowmist/Sui-MOVE-Smart-Contract-Auditing-Primer)
+6. [Ton 智能合约安全审计](https://github.com/slowmist/Toncoin-Smart-Contract-Security-Best-Practices)
 
 ### 6.2 其他应用
 
