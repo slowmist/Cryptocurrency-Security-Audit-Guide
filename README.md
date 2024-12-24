@@ -195,3 +195,6 @@ Currently we support:
 2. Interchain Bridge Application Security Audit  
 3. Browser Plugin Wallet Security Audit  
 4. Exchange Security Audit 
+
+### 7. Open Audit Report
+Refer to [Knowledge-Base](https://github.com/slowmist/Knowledge-Base/tree/master/open-report-V2)
