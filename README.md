@@ -196,5 +196,5 @@ Currently we support:
 3. Browser Plugin Wallet Security Audit  
 4. Exchange Security Audit 
 
-### 7. Public Audit Report
+## 7. Public Audit Report
 Refer to [Knowledge-Base](https://github.com/slowmist/Knowledge-Base/tree/master/open-report-V2)
