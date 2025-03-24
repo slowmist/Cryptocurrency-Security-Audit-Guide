@@ -2,8 +2,8 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/slowmist_team.svg?style=social&label=Follow%20%40SlowMist_Team)](https://twitter.com/slowmist_team) 
 
-[English Version](./README.md)
-[中文版本](./README_CN.md)
+[English Version](./README.md), 
+[中文版本](./README_CN.md), 
 [日本語版](./README_JP.md)
 
 ## 1. 暗号資産の脅威モデリング
