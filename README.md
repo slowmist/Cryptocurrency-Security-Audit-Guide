@@ -89,14 +89,20 @@ The static analysis scope includes the following categories:
 
 #### 5.2.2 Manual Code Review
 
-During manual review, the SlowMist team examines critical code paths line by line to identify coding flaws and logical errors that automated tooling may not accurately detect. Primary focus areas include:
+The SlowMist security team adopts a deep audit model combining "expert manual review + automated tool assistance" to analyze the underlying code line by line, accurately identifying potential coding defects and deep logic vulnerabilities. Our core audit scope comprehensively covers key dimensions of blockchain systems, mainly including:
 
-- Cryptographic Security
-- Account and transaction security
-- RPC security
-- P2P security
-- Consensus security
-- Business logic security
+- Cryptographic Security: Rigorously examining the implementation and application of signature algorithms, hash functions, random number generation, and encryption protocols to ensure the underlying cryptographic foundation is unbreakable.
+
+- Account and Transaction Security: Conducting in-depth checks for replay attacks, double-spending attacks, privilege escalation, and transaction malleability risks to ensure absolute security for user assets and on-chain interactions.
+
+- RPC Security: Strictly verifying interface authentication, input filtering, and rate limiting mechanisms to prevent malicious exploitation or DDoS attacks on node external interaction channels.
+
+- P2P Security: Evaluating node discovery and routing mechanisms, testing network isolation, and comprehensively preventing eclipse attacks and Sybil attacks.
+
+- Consensus Security: Deeply analyzing the robustness of consensus algorithms (such as PoW/PoS/BFT, etc.), mitigating long-range attacks, fork vulnerabilities, and collusion among malicious nodes.
+
+- Business Logic Security: Reviewing architectural design defects, state machine anomalies, and various complex business layer logic vulnerabilities in conjunction with specific application scenarios and economic models.
+
 
 ### 5.3 Application Chain Security Audit
 
